@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 streamlit==1.32.0
 tensorflow==2.14.0
+=======
+streamlit==1.32.0
+tensorflow==2.14.0
+>>>>>>> 191e879d08ad402996ad27385b5329ba3fdaf72f
 pillow==10.2.0
